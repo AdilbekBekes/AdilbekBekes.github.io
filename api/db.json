@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "Stream",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "Stream",
+      "id": 2
+    },
+    {
+      "title": "qwert",
+      "description": "qqq",
+      "id": 12
+    },
+    {
+      "title": "sad",
+      "description": "asd",
+      "userId": "114255337496217780895",
+      "id": 13
+    },
+    {
+      "title": "Stream",
+      "description": "Join",
+      "userId": "114255337496217780895",
+      "id": 14
+    }
+  ]
+}
